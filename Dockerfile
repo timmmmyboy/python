@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM dockerfile/ubuntu
+FROM timmmmyboy/ubuntu
 
 # Install Python.
 RUN \
